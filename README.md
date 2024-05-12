@@ -11,7 +11,7 @@ Počítej s tím, že *jméno* a *firma* budou vždy uvedené, stejně jako dva 
 
 1. Udělej fork zdrojového repository do svého účtu na GitHubu.
 1. Naklonuj si repository **ze svého účtu** na GitHubu na lokální počítač.
-1. Spusť si naklonovanou aplikaci a otevři v prohlížeči stránku [http://localhost:8080/](http://localhost:8080/). Zobrazí se stránka se čtyřmi vizitkami.
+1. Spusť si naklonovanou aplikaci a otevři v prohlížeči stránku [http://localhost:8080/](${vizitka.obecPsc}http://localhost:8080/). Zobrazí se stránka se čtyřmi vizitkami.
    Kliknutím na kteroukoli vizitku se zobrazí příklad s detailem jedné vizitky – je v něm pouze jedna vizitka spolu s mapou zobrazující adresu uvedenou na vizitce.
 1. Vytvoř si entitu např. `Vizitka`, která bude obsahovat následující properties – údaje zobrazené na vizitce:
    * `jmeno`
